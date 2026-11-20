@@ -2,3 +2,4 @@
 /mnist-in-csv/
 /datasets/
 *h5
+*keras
